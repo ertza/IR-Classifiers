@@ -23,3 +23,7 @@ Python implementation of classifiers
   * Python3
   * Required libraries
 * Run the script by running `IR-Project.py` or through Jupyter notebook `IR-Project.ipynb`
+
+## Implementation
+
+* Implementation details are present in the code as comments and in the Jupyter notebook too
