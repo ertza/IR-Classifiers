@@ -26,4 +26,11 @@ Python implementation of classifiers
 
 ## Implementation
 
-* Implementation details are present in the code as comments and in the Jupyter notebook too
+* Implementation details are present in the code as comments and in the Jupyter notebook too.
+
+## Credits 
+
+All the datasets have been downloaded from UCI Machine Learning Repository
+ * https://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails
+ * https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter
+ * https://archive.ics.uci.edu/ml/datasets/Sentence+Classification
