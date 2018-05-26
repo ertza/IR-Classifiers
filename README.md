@@ -3,7 +3,7 @@ Python implementation of classifiers
 
 ## Requirements
 
-* Pyhon3
+* Python3
   * Download and install from https://www.python.org/downloads/
 
 * Libraries Needed
