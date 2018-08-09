@@ -1,5 +1,5 @@
 # IR-Classifiers
-Python implementation of classifiers
+Python implementation of Information Retrieval classifiers
 
 ## Requirements
 
